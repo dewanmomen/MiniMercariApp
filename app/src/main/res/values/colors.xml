@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#1a1818</color>
     <color name="colorAccent">#D81B60</color>
+
+
+
+    <color name="appColor">#c49c4c</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="line_grey">#AAAAAA</color>
+
+    <color name="splashBGColor">#c49c4c</color>
+    <color name="transparentColor">#65000000</color>
+
+    <color name="dot_selected">#189bd6</color>
+    <!-- Dots inactive colors -->
+    <color name="dot_not_selected">#c4c4c3</color>
+    <color name="menu_bg_color">#994A4A4A</color>
+
+    <color name="emailColor">#141F72</color>
+    <color name="gridItemBg_selected">#8B5A00</color>
+    <color name="gridItemBg_used">#F8171B</color>
+    <color name="navigationBarColor">#000000</color>
+
+
 </resources>

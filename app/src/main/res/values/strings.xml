@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">MiniMercariApp</string>
+    <string name="app_name">Mercari</string>
+
+
+    <!--Start Async Error Message    -->
+    <string name="error_timeout">Server Timeout</string>
+    <string name="error_internet">Please Check your Internet</string>
+    <string name="error_auth">Server Auth Failure</string>
+    <string name="error_server">Can not reach to the Server</string>
+    <string name="error_network">Network error</string>
+    <string name="error_parse">Data Parsing error</string>
 </resources>
